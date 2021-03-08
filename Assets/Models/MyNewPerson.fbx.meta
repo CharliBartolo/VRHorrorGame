@@ -49,7 +49,46 @@ ModelImporter:
       that might lower retargeting quality:\nNote: Activate translation DOF on avatar
       to improve retargeting quality.\n\t'Chest' is inbetween humanoid transforms
       and has rotation animation that will be discarded.\n"
-    animationRetargetingWarnings: 
+    animationRetargetingWarnings: "\nRetargeting quality report for clip 'Armature|ClosedHands':\n\tLeftLowerLeg
+      average position error 3.1 mm and maximum position error 3.1 mm at time 0:
+      0 (0.0%) Frame 0\n\tRightLowerLeg average position error 3.1 mm and maximum
+      position error 3.1 mm at time 0: 0 (0.0%) Frame 0\n\nRetargeting quality report
+      for clip 'Armature|GripHands':\n\tLeftLowerLeg average position error 3.1 mm
+      and maximum position error 3.1 mm at time 0: 0 (0.0%) Frame 0\n\tRightLowerLeg
+      average position error 3.1 mm and maximum position error 3.1 mm at time 0:
+      0 (0.0%) Frame 0\n\nRetargeting quality report for clip 'Armature|OpenHands':\n\tLeftLowerLeg
+      average position error 3.1 mm and maximum position error 3.1 mm at time 0:
+      0 (0.0%) Frame 0\n\tRightLowerLeg average position error 3.1 mm and maximum
+      position error 3.1 mm at time 0: 0 (0.0%) Frame 0\n\nRetargeting quality report
+      for clip 'Armature|OpenHands.001':\n\tLeftLowerLeg average position error 3.1
+      mm and maximum position error 3.1 mm at time 0: 0 (0.0%) Frame 0\n\tRightLowerLeg
+      average position error 3.1 mm and maximum position error 3.1 mm at time 0:
+      0 (0.0%) Frame 0\n\nRetargeting quality report for clip 'Armature|OpenHands.002':\n\tLeftLowerLeg
+      average position error 3.1 mm and maximum position error 3.1 mm at time 0:
+      0 (0.0%) Frame 0\n\tRightLowerLeg average position error 3.1 mm and maximum
+      position error 3.1 mm at time 0: 0 (0.0%) Frame 0\n\nRetargeting quality report
+      for clip 'Armature|OpenHands.003':\n\tLeftLowerLeg average position error 3.1
+      mm and maximum position error 3.1 mm at time 0: 0 (0.0%) Frame 0\n\tRightLowerLeg
+      average position error 3.1 mm and maximum position error 3.1 mm at time 0:
+      0 (0.0%) Frame 0\n\nRetargeting quality report for clip 'Armature|TPose':\n\tLeftLowerLeg
+      average position error 3.1 mm and maximum position error 3.1 mm at time 0:
+      0 (0.0%) Frame 0\n\tRightLowerLeg average position error 3.1 mm and maximum
+      position error 3.1 mm at time 0: 0 (0.0%) Frame 0\n\nRetargeting quality report
+      for clip 'Armature|TPose.001':\n\tLeftLowerLeg average position error 3.1 mm
+      and maximum position error 3.1 mm at time 0: 0 (0.0%) Frame 0\n\tRightLowerLeg
+      average position error 3.1 mm and maximum position error 3.1 mm at time 0:
+      0 (0.0%) Frame 0\n\nRetargeting quality report for clip 'Armature|Walk':\n\tRightLowerLeg
+      average position error 3.1 mm and maximum position error 8.6 mm at time 1:
+      2 (65.0%) Frame 26\n\tLeftUpperArm average position error 46.9 mm and maximum
+      position error 54.5 mm at time 0: 0 (0.0%) Frame 0\n\tLeftLowerArm average
+      position error 28.2 mm and maximum position error 42.0 mm at time 0: 0 (0.0%)
+      Frame 0\n\tLeftHand average position error 15.3 mm and maximum position error
+      33.4 mm at time 0: 0 (0.0%) Frame 0\n\tRightUpperArm average position error
+      48.5 mm and maximum position error 75.0 mm at time 0: 0 (0.0%) Frame 0\n\tRightLowerArm
+      average position error 29.0 mm and maximum position error 39.6 mm at time 0:12
+      (30.0%) Frame 12\n\tRightHand average position error 15.1 mm and maximum position
+      error 29.3 mm at time 0:15 (37.5%) Frame 15\n\tHead average position error
+      53.3 mm and maximum position error 72.4 mm at time 0: 0 (0.0%) Frame 0\n"
     animationDoRetargetingWarnings: 0
     importAnimatedCustomProperties: 0
     importConstraints: 0

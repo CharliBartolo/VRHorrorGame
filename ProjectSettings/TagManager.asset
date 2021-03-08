@@ -14,8 +14,8 @@ TagManager:
   - Mirror
   - Body
   - Interactables
-  - 
-  - 
+  - InteractablesNoCollide
+  - Enemy
   - 
   - 
   - 

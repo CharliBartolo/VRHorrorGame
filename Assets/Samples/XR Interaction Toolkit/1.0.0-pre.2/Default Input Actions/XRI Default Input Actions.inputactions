@@ -20,6 +20,14 @@
                     "expectedControlType": "Quaternion",
                     "processors": "",
                     "interactions": ""
+                },
+                {
+                    "name": "Velocity",
+                    "type": "Value",
+                    "id": "02de0f76-4427-49ca-a9a8-7d68ab440f71",
+                    "expectedControlType": "Vector3",
+                    "processors": "",
+                    "interactions": ""
                 }
             ],
             "bindings": [
@@ -42,6 +50,17 @@
                     "processors": "",
                     "groups": "Generic XR Controller",
                     "action": "Rotation",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "b6585e43-527a-45d3-8f24-a4df85c40faf",
+                    "path": "<XRHMD>/deviceVelocity",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Generic XR Controller",
+                    "action": "Velocity",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }
@@ -160,6 +179,14 @@
                     "type": "Value",
                     "id": "30fb58b9-f403-4595-a7e2-8b39ec5d80d4",
                     "expectedControlType": "Analog",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "Velocity",
+                    "type": "Value",
+                    "id": "277dae33-ccd2-42c9-9e15-f39dd37cbccc",
+                    "expectedControlType": "Vector3",
                     "processors": "",
                     "interactions": ""
                 }
@@ -439,6 +466,17 @@
                     "action": "HandAnimate",
                     "isComposite": false,
                     "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "5deb3f88-939b-4dac-8772-b78cec6a2db4",
+                    "path": "<XRController>{LeftHand}/deviceVelocity",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Generic XR Controller",
+                    "action": "Velocity",
+                    "isComposite": false,
+                    "isPartOfComposite": false
                 }
             ]
         },
@@ -555,6 +593,14 @@
                     "type": "Value",
                     "id": "fc2a6262-838e-4752-960e-7edab54b2711",
                     "expectedControlType": "Analog",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "Velocity",
+                    "type": "Value",
+                    "id": "283e5d4e-8838-4fba-a585-3193f63a5b19",
+                    "expectedControlType": "Vector3",
                     "processors": "",
                     "interactions": ""
                 }
@@ -821,6 +867,17 @@
                     "processors": "",
                     "groups": "Generic XR Controller",
                     "action": "HandAnimate",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "f6777345-68e2-4f3e-9481-d5278d41a3ef",
+                    "path": "<XRController>{RightHand}/deviceVelocity",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Generic XR Controller",
+                    "action": "Velocity",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }

@@ -18,6 +18,7 @@ public class VRAnimatorController : MonoBehaviour
     {
         animator = GetComponent<Animator>();
         vrRig = GetComponent<VRRig>();
+        //previousPos = VRRig.head.vrTarget.position;
         previousPos = vrRig.head.vrTarget.position;
     }
 
